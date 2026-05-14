@@ -1,4 +1,4 @@
-🚀 DevHubc — Machine Learning Projects
+🚀 DevHubs — Machine Learning Projects
 
 A collection of machine learning projects built using Python and Jupyter Notebook.
 
